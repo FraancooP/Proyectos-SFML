@@ -11,4 +11,6 @@ private:
 	int fps;
 	Texture * textura1;
 	Sprite * sprite1;
+	Texture * textura2;
+	Sprite * sprite2;
 };
